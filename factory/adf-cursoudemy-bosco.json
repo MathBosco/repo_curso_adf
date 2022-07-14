@@ -1,0 +1,9 @@
+{
+	"name": "adf-cursoudemy-bosco",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "21c60eba-7629-4b2f-b214-2d94101af3f6",
+		"tenantId": "855dcf8a-d388-470f-8bde-b41a40efe747"
+	}
+}
