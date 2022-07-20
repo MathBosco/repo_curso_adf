@@ -1,10 +1,6 @@
 {
 	"name": "ds_sqlserver_local",
 	"properties": {
-		"linkedServiceName": {
-			"referenceName": "ls_local_sql_server",
-			"type": "LinkedServiceReference"
-		},
 		"parameters": {
 			"schemaName": {
 				"type": "string"
